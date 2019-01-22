@@ -22,4 +22,4 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+[Project repo](https://github.com/damianpdavila/carpool-match.git)
