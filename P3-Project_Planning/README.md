@@ -8,7 +8,11 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* [Login](https://github.com/damianpdavila/liftoff-assignments/blob/master/P3-Project_Planning/LoginWireframe.pdf)
+* [Register Page 1](https://github.com/damianpdavila/liftoff-assignments/blob/master/P3-Project_Planning/RegisterPage1Wireframe.pdf)
+* [Register Page 2](https://github.com/damianpdavila/liftoff-assignments/blob/master/P3-Project_Planning/RegisterPage2Wireframe.pdf)
+* [Register Page 3](https://github.com/damianpdavila/liftoff-assignments/blob/master/P3-Project_Planning/RegisterPage3Wireframe.pdf)
+* [Match Result Page](https://github.com/damianpdavila/liftoff-assignments/blob/master/P3-Project_Planning/MatchPageWireframe.pdf)
 
 ### Project Tracker
 
