@@ -7,12 +7,12 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+[https://github.com/damianpdavila](https://github.com/damianpdavila)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[https://www.linkedin.com/in/damiandavila/](https://www.linkedin.com/in/damiandavila/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+[Resume in Launchcode format](https://github.com/damianpdavila/liftoff-assignments/blob/master/C1-Online_Profiles/Damian_Davila-resume-24Jan2019-LaunchCode-format.pdf)
 
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
+[Original resume in personal format](https://github.com/damianpdavila/liftoff-assignments/blob/master/C1-Online_Profiles/Damian_Davila-resume-24Jan2019.pdf)
